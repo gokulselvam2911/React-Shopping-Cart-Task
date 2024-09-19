@@ -1,0 +1,114 @@
+[
+    {
+        "product_id": 1,
+        "image": "https://img.freepik.com/free-vector/fashion-graphics-set_23-2147487092.jpg",
+        "name": "Product 1",
+        "price": 19.99,
+        "rating": 4.5
+    },
+    {
+        "product_id": 2,
+        "image": "https://image.freepik.com/free-vector/healthy-food-flyer-template_52683-35599.jpg",
+        "name": "Product 2",
+        "price": 29.99,
+        "rating": 3.8
+    },
+    {
+        "product_id": 3,
+        "image": "https://image.freepik.com/free-vector/fitness-design_24911-39963.jpg?w=1380",
+        "name": "Product 3",
+        "price": 14.99,
+        "rating": 4.2
+    },
+    {
+        "product_id": 4,
+        "image": "https://th.bing.com/th/id/OIP.tZvQqKJer-Dj4x755tz38gHaI2?rs=1&pid=ImgDetMain",
+        "name": "Product 4",
+        "price": 39.99,
+        "rating": 4.9
+    },
+    {
+        "product_id": 5,
+        "image": "https://storage.googleapis.com/free-ca/wp-content/uploads/2023/04/health-and-wellnes-sampler-pack.png",
+        "name": "Product 5",
+        "price": 24.99,
+        "rating": 3.5
+    },
+    {
+        "product_id": 6,
+        "image": "https://th.bing.com/th/id/OIP.CVvv_KlEL6EVyELdaOI7JwHaHa?pid=ImgDet&w=196&h=196&c=7&dpr=2",
+        "name": "Product 6",
+        "price": 12.99,
+        "rating": 4.7
+    },
+    {
+        "product_id": 7,
+        "image": "https://th.bing.com/th/id/OIP.UuvcraKLfM7YqHZb1_l0jgHaHa?rs=1&pid=ImgDetMain",
+        "name": "Product 7",
+        "price": 34.99,
+        "rating": 4.1
+    },
+    {
+        "product_id": 8,
+        "image": "https://img1.fpassets.com/is/image/FreePeople/43206358_100_0?$pdp23$",
+        "name": "Product 8",
+        "price": 17.99,
+        "rating": 4.3
+    },
+    {
+        "product_id": 9,
+        "image": "https://img.freepik.com/free-vector/fashion-graphics-set_23-2147487092.jpg",
+        "name": "Product 9",
+        "price": 22.99,
+        "rating": 4.4
+    },
+    {
+        "product_id": 10,
+        "image": "https://image.freepik.com/free-vector/healthy-food-flyer-template_52683-35599.jpg",
+        "name": "Product 10",
+        "price": 27.99,
+        "rating": 3.9
+    },
+    {
+        "product_id": 11,
+        "image": "https://image.freepik.com/free-vector/fitness-design_24911-39963.jpg?w=1380",
+        "name": "Product 11",
+        "price": 16.99,
+        "rating": 4.3
+    },
+    {
+        "product_id": 12,
+        "image": "https://th.bing.com/th/id/OIP.tZvQqKJer-Dj4x755tz38gHaI2?rs=1&pid=ImgDetMain",
+        "name": "Product 12",
+        "price": 42.99,
+        "rating": 4.8
+    },
+    {
+        "product_id": 13,
+        "image": "https://storage.googleapis.com/free-ca/wp-content/uploads/2023/04/health-and-wellnes-sampler-pack.png",
+        "name": "Product 13",
+        "price": 26.99,
+        "rating": 3.6
+    },
+    {
+        "product_id": 14,
+        "image": "https://th.bing.com/th/id/OIP.CVvv_KlEL6EVyELdaOI7JwHaHa?pid=ImgDet&w=196&h=196&c=7&dpr=2",
+        "name": "Product 14",
+        "price": 15.99,
+        "rating": 4.6
+    },
+    {
+        "product_id": 15,
+        "image": "https://th.bing.com/th/id/OIP.UuvcraKLfM7YqHZb1_l0jgHaHa?rs=1&pid=ImgDetMain",
+        "name": "Product 15",
+        "price": 36.99,
+        "rating": 4.2
+    },
+    {
+        "product_id": 16,
+        "image": "https://img1.fpassets.com/is/image/FreePeople/43206358_100_0?$pdp23$",
+        "name": "Product 16",
+        "price": 19.99,
+        "rating": 4.5
+    }
+]
